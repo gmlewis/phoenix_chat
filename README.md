@@ -23,3 +23,7 @@ $ cd assets && npm install
 $ cd .. && mix ecto.create
 $ mix phx.server
 ```
+
+## Try it out
+
+Visit http://localhost:4000/?user=Glenn in your browser.
