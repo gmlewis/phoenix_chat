@@ -16,10 +16,10 @@ Follow along at the companion blog post:
 Requires Erlang and Elixir.
 
 ```
-$ git clone git@github.com:stevegrossi/phoenix_chat
+$ git clone git@github.com:gmlewis/phoenix_chat
 $ cd phoenix_chat
 $ mix deps.get
-$ npm install
-$ mix ecto.create
-$ mix phoenix.server
+$ cd assets && npm install
+$ cd .. && mix ecto.create
+$ mix phx.server
 ```
