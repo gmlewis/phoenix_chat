@@ -1,3 +1,5 @@
+# ARCHIVED REPO ON 2020-03-14
+
 # PhoenixChat
 
 An example Elixir chat app using Phoenix channels and presence inspired by https://github.com/stevegrossi/phoenix_chat
